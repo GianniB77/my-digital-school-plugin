@@ -1,0 +1,17 @@
+{
+    "name": "vscode/php",
+    "type": "composer-plugin",
+    "license": "ISC",
+    "autoload": {
+        "psr-4": {
+            "Vscode\\Php\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "GianniB77",
+            "email": "giannibosio.gb@outlook.fr"
+        }
+    ],
+    "require": {}
+}
